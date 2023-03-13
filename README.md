@@ -1,6 +1,6 @@
 # stats220
 
-*The purpose of this repo is to present some of my work for projects in **STATS 220**. This README. md file was created for Project 1 to demonstrate the use of some Markdown syntax.*
+*The purpose of this repo is to present some of my work for projects in **STATS 220**. This README.md file was created for Project 1 to demonstrate the use of some Markdown syntax.*
 
 <img src="https://media.tenor.com/qbY1rXMK7NQAAAAi/saramaese-cute.gif" width="249" height="189" align="right">
 
